@@ -1,0 +1,66 @@
+===============================================================================
+            SumtingWong? EA v1.40 – Supported Instruments
+===============================================================================
+
+FOREX PAIRS (28)
+-----------------
+Majors:
+  EURUSD
+  GBPUSD
+  USDJPY
+  USDCAD
+  AUDUSD
+  USDCHF
+  NZDUSD
+
+Crosses:
+  EURGBP
+  EURJPY
+  EURCAD
+  EURCHF
+  EURAUD
+  EURNZD
+  AUDNZD
+  GBPJPY
+  GBPCAD
+  GBPCHF
+  GBPAUD
+  GBPNZD
+  AUDCHF
+  NZDCAD
+  CADCHF
+  CADJPY
+  CHFJPY
+  AUDJPY
+  AUDCAD
+  NZDJPY
+  NZDCHF
+
+COMMODITIES & CRYPTO
+---------------------
+Gold:       XAUUSD  (or any symbol containing XAUUSD/GOLD)
+Oil:        USOIL, WTI, XTIUSD, Crude  (auto‑detected)
+Bitcoin:    BTCUSD, BTCUSDi, XBTUSD  (auto‑detected)
+
+INDICES (5)
+------------
+Dow Jones:       US30
+DAX:             DE30, GER30
+Euro Stoxx 50:   EU50, ESTX50
+Nikkei 225:      JP225
+
+=====================================================================
+NOTE: The EA auto‑detects symbols. If your broker uses non‑standard
+naming, adjust SymbolPrefix / SymbolSuffix in the inputs.
+If a symbol is not available, it will simply be skipped.
+=====================================================================
+
+NON‑TRADED INSTRUMENTS (used for Metals Strength calculation)
+--------------------------------------------------------------
+Silver:      XAGUSD
+Palladium:   XPDUSD
+Platinum:    XPTUSD
+(any symbol containing XAG, SILVER, XPD, PALLADIUM, XPT, PLATINUM)
+
+These are never traded – only their strength values are used
+for Gold entry decisions and the dashboard display.
