@@ -3,6 +3,7 @@ Sumting Wong EA
 ===============================================================================
                 SumtingWong? EA v1.40 – User Guide & Summary
 ===============================================================================
+***LOAD MARKET WATCH WITH ALL MAJOR CURRENCIES, INDICES, & INSTRUMENTS OR EA WILL NOT DETECT THEM***
 
 1. OVERVIEW
 -----------
